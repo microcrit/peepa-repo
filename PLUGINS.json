@@ -1,8 +1,8 @@
 {
-  deps: [
+  "deps" : [
     "query-ast"
   ],
-  plugins: [
+  "plugins" : [
     "Example"
   ]
 }
