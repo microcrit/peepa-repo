@@ -3,6 +3,6 @@
     "query-ast"
   ],
   "plugins" : [
-    "Example"
+    "BeanLoader"
   ]
 }
