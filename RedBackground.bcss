@@ -1,0 +1,5 @@
+{PATCH frontend/src/styles/all.module.css}
+
+.background {
+    background: red !important;
+}
