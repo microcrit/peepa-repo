@@ -3,7 +3,7 @@ Replace the default Console loader with Ben Stewart.
 SYNTAX:
 
 AST tree:
-defaultExport: node.argument = return statement JSX element, choldren[1] = first child in JSX fragment, so on... log AST tree (element) for more info
+defaultExport: node.argument = return statement JSX element, children[1] = first child in JSX fragment, so on... log AST tree (element) for more info
     returns: {
         element: patched AST node (parent of declaration, modification of second in destructure)
     }
